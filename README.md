@@ -38,9 +38,9 @@ Meu nome é Lucas, sou apaixonado por tecnologia e estou sempre buscando aprende
 
 ## Projetos Destacados
 
-- [📦 Projeto Busca CEP](https://github.com/seu-usuario/projeto-cep): Aplicação interativa que busca endereços por CEP utilizando a API ViaCEP e Leaflet.js para exibição no mapa.
+- [📦 Projeto Busca CEP](https://by-scottlucas.github.io/react-busca-cep/): Aplicação interativa que busca endereços por CEP utilizando a API ViaCEP e Leaflet.js para exibição no mapa.
 
-- [🎮 Projeto Super Trunfo](https://github.com/seu-usuario/super-trunfo): Jogo baseado no Super Trunfo com a temática do Mortal Kombat 11, desenvolvido com JavaScript, HTML e CSS.
+- [🎮 Projeto Super Trunfo](https://by-scottlucas.github.io/js-super-trunfo/): Jogo baseado no Super Trunfo com a temática do Mortal Kombat 11, desenvolvido com JavaScript, HTML e CSS.
 
 ## Contato
 
