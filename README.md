@@ -1,4 +1,4 @@
-# Lucas S. - Desenvolvedor Full Stack
+# Lucas S. Silva - Desenvolvedor Full Stack
 
 <p style="text-align: justify">
 Meu nome é Lucas, sou apaixonado por tecnologia e estou sempre buscando aprender e me aprimorar em novas áreas. Iniciei minha carreira como designer e ilustrador digital, onde atuei por 7 anos. Atualmente, trabalho como Desenvolvedor Full Stack.
