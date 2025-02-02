@@ -1,11 +1,8 @@
 # Lucas S. Silva - Desenvolvedor Full Stack
 
-<p style="text-align: justify">
 Meu nome é Lucas, sou apaixonado por tecnologia e estou sempre buscando aprender e me aprimorar em novas áreas. Iniciei minha carreira como designer e ilustrador digital, onde atuei por 7 anos. Atualmente, trabalho como Desenvolvedor Full Stack.
-</p>
 
 ## Tecnologias e Ferramentas
-
 
 ### Desenvolvimento
 
@@ -15,7 +12,7 @@ Meu nome é Lucas, sou apaixonado por tecnologia e estou sempre buscando aprende
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
+![Dart](https://img.shields.io/badge/-Dart-00B4A1?style=flat-square&logo=dart&logoColor=white)
 
 ### Frameworks e Bibliotecas
 
@@ -24,7 +21,13 @@ Meu nome é Lucas, sou apaixonado por tecnologia e estou sempre buscando aprende
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Quarkus](https://img.shields.io/badge/-Quarkus-3E1F39?style=flat-square&logo=quarkus&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white)
@@ -34,13 +37,7 @@ Meu nome é Lucas, sou apaixonado por tecnologia e estou sempre buscando aprende
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-
-## Projetos Destacados
-
-- [📦 Projeto Busca CEP](https://by-scottlucas.github.io/react-busca-cep/): Aplicação interativa que busca endereços por CEP utilizando a API ViaCEP e Leaflet.js para exibição no mapa.
-
-- [🎮 Projeto Super Trunfo](https://by-scottlucas.github.io/js-super-trunfo/): Jogo baseado no Super Trunfo com a temática do Mortal Kombat 11, desenvolvido com JavaScript, HTML e CSS.
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ## Contato
 
